@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/mp3_src/4.PNG</file>
+        <file>D:/mp3_src/danqu.png</file>
+        <file>D:/mp3_src/down.ico</file>
+        <file>D:/mp3_src/Image.qrc</file>
+        <file>D:/mp3_src/open.png</file>
+        <file>D:/mp3_src/suiji.ico</file>
+        <file>D:/mp3_src/xunhuan.ico</file>
+        <file>D:/mp3_src/next.png</file>
+        <file>D:/mp3_src/pause.png</file>
+        <file>D:/mp3_src/play.png</file>
+        <file>D:/mp3_src/prev.png</file>
+        <file>D:/mp3_src/stop.png</file>
+        <file>D:/mp3_src/voice.PNG</file>
+        <file>D:/mp3_src/shunxu.ico</file>
+        <file>D:/mp3_src/xin.ico</file>
+        <file>D:/mp3_src/LOCAL201702100921000022268892564.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
